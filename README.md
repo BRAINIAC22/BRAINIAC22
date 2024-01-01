@@ -2,7 +2,7 @@ Hello there looking at my profile my name is John Maxwell and am a software deve
 
 DISCLAIMER:
 
-Kindly note that all information and source code provided, are for educational, training, and research purposes.
+Kindly note that all information and source code provided, are for educational, training, and research purposes only.
 
 And therefore I will not be held responsible for any illegal or misuse/abuse of information provided by this repository.
 
